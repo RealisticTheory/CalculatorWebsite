@@ -1,0 +1,29 @@
+.pages {
+    font-size: 50px;
+    padding-left: 25px;
+    padding-top: 10px;
+    background: rgba(255,201,42,255);
+    border: solid;
+}
+a{
+    margin-right: 15px;
+}
+.title {
+    font-size: 30px;
+    background-color: rgb(0,43,136);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    color: rgba(255,201,42,255);
+    border: solid;
+    border-color: black;
+}
+
+.desc {
+    font-size: 48px;
+    border: solid;
+    margin: 160px;
+    text-align: center;
+    padding: 2;
+    background-color: rgba(255,201,42,255);
+}
